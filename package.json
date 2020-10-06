@@ -1,0 +1,17 @@
+{
+  "name": "first_express_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  }
+}
